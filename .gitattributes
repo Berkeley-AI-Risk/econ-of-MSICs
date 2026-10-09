@@ -1,0 +1,4 @@
+# Preserve exact bytes for checksum-pinned captures and CSVs on every OS.
+* text=auto eol=lf
+*.csv -text -whitespace
+demand_data/openrouter/raw/** -text -whitespace

@@ -1,0 +1,67 @@
+{
+  "created_at_utc": "2026-08-12T18:17:06Z",
+  "retrievals": [
+    {
+      "url": "https://openrouter.ai/api/frontend/v1/rankings/models?view=day",
+      "retrieved_at_utc": "2026-08-12T18:16:21Z",
+      "file": "openrouter_frontend_models_day_20260812.json",
+      "sha256": "0c26b1bcd80f41367391aa8d4a517470582c1a502e6d1f794a657d569c144028",
+      "provenance": "official first-party public website endpoint"
+    },
+    {
+      "url": "https://openrouter.ai/api/frontend/v1/rankings/models?view=week",
+      "retrieved_at_utc": "2026-08-12T18:14:51Z",
+      "file": "openrouter_frontend_models_week_20260812.json",
+      "sha256": "89bc572cda6aa831d84dd3929e336fbc074fa2c39ffdff3df887654e484ff3e5",
+      "provenance": "official first-party public website endpoint"
+    },
+    {
+      "url": "https://openrouter.ai/api/frontend/v1/rankings/model-rankings-chart",
+      "retrieved_at_utc": "2026-08-12T18:14:51Z",
+      "file": "openrouter_frontend_model_rankings_chart_20260812.json",
+      "sha256": "cf2ff147999da2b3377e031659b946537928dd7be9d8f2facdf4e943013ca5c5",
+      "provenance": "official first-party public website endpoint"
+    },
+    {
+      "url": "https://openrouter.ai/api/v1/models?output_modalities=all",
+      "retrieved_at_utc": "2026-08-12T18:14:51Z",
+      "file": "openrouter_models_catalog_20260812.json",
+      "sha256": "b62f108b28c6c64c0d6e2b39e881eea1e56efafdf3a85f9b6a9ea8d83ae9a5f5",
+      "included_in_current_tree": false,
+      "provenance": "official OpenRouter Models API"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Spectral-Finance/openrouter-rankings/499c652ad7f91a31738bcb6969bbf7407b7c5eeb/index.html",
+      "retrieved_at_utc": "2026-08-12T18:14:51Z",
+      "file": "secondary_archive_openrouter_rankings_dashboard.html",
+      "sha256": "c6f182b01634df88ad809199b9d81cd19dabb61ce9f5f0445f8f33451cee6f3f",
+      "included_in_current_tree": false,
+      "provenance": "secondary GitHub archive pinned to commit; embedded data identifies OpenRouter rankings-daily as source"
+    }
+  ],
+  "derived_archives": [
+    {
+      "file": "openrouter_models_catalog_20260812_trimmed.json",
+      "sha256": "6a2403fc2bf1e3fb27acb5663e270ed88aaa4be24cb095103a377f231f2ea54d",
+      "source_file": "openrouter_models_catalog_20260812.json",
+      "source_sha256": "b62f108b28c6c64c0d6e2b39e881eea1e56efafdf3a85f9b6a9ea8d83ae9a5f5",
+      "transformation": "Selected only fields consumed by the analysis and reproduction tools using openrouter_demand.trim_catalog; all 535 rows, retained values, nulls, and row order unchanged.",
+      "retained_fields": ["id", "canonical_slug", "hugging_face_id", "name", "created", "context_length", "architecture.input_modalities", "architecture.output_modalities", "architecture.modality", "architecture.tokenizer", "pricing.prompt", "pricing.completion", "expiration_date"],
+      "source_schema_check": "The full source capture, before trimming, contained no keys recognized by analyze_topn.check_catalog_size_schema as structured model-size fields."
+    },
+    {
+      "file": "openrouter_rankings_daily_20250101_20260604.json",
+      "sha256": "b613096fcf570d5c8bfbccdc2d4227350e74221cce7627889bf6a3a943c9e91d",
+      "source_file": "secondary_archive_openrouter_rankings_dashboard.html",
+      "source_sha256": "c6f182b01634df88ad809199b9d81cd19dabb61ce9f5f0445f8f33451cee6f3f",
+      "transformation": "Lossless extraction of dates, daily_models, total_tokens, and top50_tokens; added provenance and attribution. No dashboard code or model catalog retained.",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "authenticated_endpoint_status": {
+    "url": "https://openrouter.ai/api/v1/datasets/rankings-daily",
+    "status": 401,
+    "reason": "OPENROUTER_API_KEY was not configured; no error response body was archived"
+  }
+}

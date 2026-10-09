@@ -1,0 +1,38 @@
+{
+  "analysis": "static top-N OpenRouter demand coverage; not an estimate of economic inefficiency",
+  "inputs": {
+    "day": {
+      "path": "demand_data/openrouter/raw/openrouter_frontend_models_day_20260812.json",
+      "sha256": "0c26b1bcd80f41367391aa8d4a517470582c1a502e6d1f794a657d569c144028"
+    },
+    "week": {
+      "path": "demand_data/openrouter/raw/openrouter_frontend_models_week_20260812.json",
+      "sha256": "89bc572cda6aa831d84dd3929e336fbc074fa2c39ffdff3df887654e484ff3e5"
+    },
+    "catalog": {
+      "path": "demand_data/openrouter/raw/openrouter_models_catalog_20260812_trimmed.json",
+      "sha256": "6a2403fc2bf1e3fb27acb5663e270ed88aaa4be24cb095103a377f231f2ea54d"
+    }
+  },
+  "positive_demand_rows": {
+    "day": 490,
+    "week": 508
+  },
+  "output_rows": {
+    "unit_rankings.csv": 1883,
+    "ranked_units_by_universe.csv": 3251,
+    "topn_coverage.csv": 6502,
+    "selected_n_summary.csv": 192,
+    "design_count_sensitivity.csv": 6502,
+    "metadata_availability.csv": 2496,
+    "selection_stability.csv": 6463
+  },
+  "validation_checks": [
+    "day exact/permaslug totals reconcile",
+    "day unit IDs unique and token/request shares sum to one",
+    "week exact/permaslug totals reconcile",
+    "week unit IDs unique and token/request shares sum to one",
+    "all top-N coverage series monotone, exhaustive, and complementary to omission",
+    "catalog contains no recognized structured model-size/architecture-size fields"
+  ]
+}

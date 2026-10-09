@@ -1,0 +1,411 @@
+week_start,comparison_scope,model_permaslug,official_tokens,secondary_visible_tokens,signed_difference_tokens,absolute_relative_error,secondary_censoring_note
+2025-08-18,weekly_total,,3207415603183,3207415603183,0,0.0,none for the archived all-model daily total
+2025-08-18,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,518030593837,518030593837,0,0.0,secondary value can omit days below the daily top 50
+2025-08-18,named_model_visible_daily_top50,google/gemini-2.5-flash,253189171485,253189171485,0,0.0,secondary value can omit days below the daily top 50
+2025-08-18,named_model_visible_daily_top50,google/gemini-2.0-flash-001,220494437172,220494437172,0,0.0,secondary value can omit days below the daily top 50
+2025-08-18,named_model_visible_daily_top50,deepseek/deepseek-chat-v3-0324,163206246683,163206246683,0,0.0,secondary value can omit days below the daily top 50
+2025-08-18,named_model_visible_daily_top50,google/gemini-2.5-pro,143513036230,143513036230,0,0.0,secondary value can omit days below the daily top 50
+2025-08-18,named_model_visible_daily_top50,qwen/qwen3-coder-480b-a35b-07-25,140479683096,140479683096,0,0.0,secondary value can omit days below the daily top 50
+2025-08-18,named_model_visible_daily_top50,anthropic/claude-3-7-sonnet-20250219,127966656277,127966656277,0,0.0,secondary value can omit days below the daily top 50
+2025-08-18,named_model_visible_daily_top50,deepseek/deepseek-r1-0528:free,110608018759,110608018759,0,0.0,secondary value can omit days below the daily top 50
+2025-08-18,named_model_visible_daily_top50,deepseek/deepseek-chat-v3-0324:free,99465996092,99465996092,0,0.0,secondary value can omit days below the daily top 50
+2025-08-25,weekly_total,,3725245731901,3725245731901,0,0.0,none for the archived all-model daily total
+2025-08-25,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,559788815064,559788815064,0,0.0,secondary value can omit days below the daily top 50
+2025-08-25,named_model_visible_daily_top50,x-ai/grok-code-fast-1,396372897685,395532874098,-840023587,0.0021192760451234785,secondary value can omit days below the daily top 50
+2025-08-25,named_model_visible_daily_top50,google/gemini-2.5-flash,341988310734,341988310734,0,0.0,secondary value can omit days below the daily top 50
+2025-08-25,named_model_visible_daily_top50,google/gemini-2.0-flash-001,202382502812,202382502812,0,0.0,secondary value can omit days below the daily top 50
+2025-08-25,named_model_visible_daily_top50,google/gemini-2.5-pro,182735377555,182735377555,0,0.0,secondary value can omit days below the daily top 50
+2025-08-25,named_model_visible_daily_top50,deepseek/deepseek-chat-v3-0324,154823268587,154823268587,0,0.0,secondary value can omit days below the daily top 50
+2025-08-25,named_model_visible_daily_top50,deepseek/deepseek-chat-v3.1,149160255892,149160255892,0,0.0,secondary value can omit days below the daily top 50
+2025-08-25,named_model_visible_daily_top50,qwen/qwen3-coder-480b-a35b-07-25,106425696360,106425696360,0,0.0,secondary value can omit days below the daily top 50
+2025-08-25,named_model_visible_daily_top50,qwen/qwen3-30b-a3b-04-28,97845656166,97845656166,0,0.0,secondary value can omit days below the daily top 50
+2025-09-01,weekly_total,,4599726264442,4599726264442,0,0.0,none for the archived all-model daily total
+2025-09-01,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1097553506710,1097553506710,0,0.0,secondary value can omit days below the daily top 50
+2025-09-01,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,544918185830,544918185830,0,0.0,secondary value can omit days below the daily top 50
+2025-09-01,named_model_visible_daily_top50,google/gemini-2.5-flash,443280842306,443280842306,0,0.0,secondary value can omit days below the daily top 50
+2025-09-01,named_model_visible_daily_top50,google/gemini-2.0-flash-001,182703306865,182703306865,0,0.0,secondary value can omit days below the daily top 50
+2025-09-01,named_model_visible_daily_top50,deepseek/deepseek-chat-v3-0324,167612442208,167612442208,0,0.0,secondary value can omit days below the daily top 50
+2025-09-01,named_model_visible_daily_top50,openai/gpt-4.1-mini-2025-04-14,161300137470,161300137470,0,0.0,secondary value can omit days below the daily top 50
+2025-09-01,named_model_visible_daily_top50,google/gemini-2.5-pro,146046626103,146046626103,0,0.0,secondary value can omit days below the daily top 50
+2025-09-01,named_model_visible_daily_top50,deepseek/deepseek-chat-v3.1:free,135943815398,135943815398,0,0.0,secondary value can omit days below the daily top 50
+2025-09-01,named_model_visible_daily_top50,qwen/qwen3-30b-a3b-04-28,116910240691,116910240691,0,0.0,secondary value can omit days below the daily top 50
+2025-09-08,weekly_total,,4897473678785,4897473678785,0,0.0,none for the archived all-model daily total
+2025-09-08,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1165211710023,1165211710023,0,0.0,secondary value can omit days below the daily top 50
+2025-09-08,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,568397773427,568397773427,0,0.0,secondary value can omit days below the daily top 50
+2025-09-08,named_model_visible_daily_top50,google/gemini-2.5-flash,321734484987,321734484987,0,0.0,secondary value can omit days below the daily top 50
+2025-09-08,named_model_visible_daily_top50,google/gemini-2.0-flash-001,184361509252,184361509252,0,0.0,secondary value can omit days below the daily top 50
+2025-09-08,named_model_visible_daily_top50,openrouter/sonoma-sky-alpha,172010402931,172010402931,0,0.0,secondary value can omit days below the daily top 50
+2025-09-08,named_model_visible_daily_top50,openai/gpt-4.1-mini-2025-04-14,167463658682,167463658682,0,0.0,secondary value can omit days below the daily top 50
+2025-09-08,named_model_visible_daily_top50,deepseek/deepseek-chat-v3.1:free,156458256622,156458256622,0,0.0,secondary value can omit days below the daily top 50
+2025-09-08,named_model_visible_daily_top50,deepseek/deepseek-chat-v3-0324,150822605202,150822605202,0,0.0,secondary value can omit days below the daily top 50
+2025-09-08,named_model_visible_daily_top50,google/gemini-2.5-pro,144687744676,144687744676,0,0.0,secondary value can omit days below the daily top 50
+2025-09-15,weekly_total,,4917372773961,4917372773961,0,0.0,none for the archived all-model daily total
+2025-09-15,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1145693711634,1145693711634,0,0.0,secondary value can omit days below the daily top 50
+2025-09-15,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,585759928388,585759928388,0,0.0,secondary value can omit days below the daily top 50
+2025-09-15,named_model_visible_daily_top50,google/gemini-2.5-flash,325169169721,325169169721,0,0.0,secondary value can omit days below the daily top 50
+2025-09-15,named_model_visible_daily_top50,openrouter/sonoma-sky-alpha,226964872884,226964872884,0,0.0,secondary value can omit days below the daily top 50
+2025-09-15,named_model_visible_daily_top50,google/gemini-2.0-flash-001,187109553248,187109553248,0,0.0,secondary value can omit days below the daily top 50
+2025-09-15,named_model_visible_daily_top50,deepseek/deepseek-chat-v3.1:free,180089920732,180089920732,0,0.0,secondary value can omit days below the daily top 50
+2025-09-15,named_model_visible_daily_top50,x-ai/grok-4-fast:free,157577136092,157566661772,-10474320,6.647106464661638e-05,secondary value can omit days below the daily top 50
+2025-09-15,named_model_visible_daily_top50,openai/gpt-4.1-mini-2025-04-14,157033780170,157033780170,0,0.0,secondary value can omit days below the daily top 50
+2025-09-15,named_model_visible_daily_top50,deepseek/deepseek-chat-v3-0324,142205511422,142205511422,0,0.0,secondary value can omit days below the daily top 50
+2025-09-22,weekly_total,,5257980070812,5257980070812,0,0.0,none for the archived all-model daily total
+2025-09-22,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1067241937351,1067241937351,0,0.0,secondary value can omit days below the daily top 50
+2025-09-22,named_model_visible_daily_top50,x-ai/grok-4-fast:free,913435460684,913435460684,0,0.0,secondary value can omit days below the daily top 50
+2025-09-22,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,578811648885,578811648885,0,0.0,secondary value can omit days below the daily top 50
+2025-09-22,named_model_visible_daily_top50,google/gemini-2.5-flash,345752869087,345752869087,0,0.0,secondary value can omit days below the daily top 50
+2025-09-22,named_model_visible_daily_top50,deepseek/deepseek-chat-v3.1:free,209106532150,209106532150,0,0.0,secondary value can omit days below the daily top 50
+2025-09-22,named_model_visible_daily_top50,google/gemini-2.0-flash-001,161448192197,161448192197,0,0.0,secondary value can omit days below the daily top 50
+2025-09-22,named_model_visible_daily_top50,deepseek/deepseek-chat-v3-0324,141105692691,141105692691,0,0.0,secondary value can omit days below the daily top 50
+2025-09-22,named_model_visible_daily_top50,openai/gpt-5-2025-08-07,138592013043,138592013043,0,0.0,secondary value can omit days below the daily top 50
+2025-09-22,named_model_visible_daily_top50,google/gemini-2.5-pro,135769934796,135769934796,0,0.0,secondary value can omit days below the daily top 50
+2025-09-29,weekly_total,,5380323659290,5380323659290,0,0.0,none for the archived all-model daily total
+2025-09-29,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1053354939944,1053354939944,0,0.0,secondary value can omit days below the daily top 50
+2025-09-29,named_model_visible_daily_top50,x-ai/grok-4-fast:free,644467337495,644467337495,0,0.0,secondary value can omit days below the daily top 50
+2025-09-29,named_model_visible_daily_top50,google/gemini-2.5-flash,364545990815,364545990815,0,0.0,secondary value can omit days below the daily top 50
+2025-09-29,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,315616427419,315616427419,0,0.0,secondary value can omit days below the daily top 50
+2025-09-29,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,298083667919,298083667919,0,0.0,secondary value can omit days below the daily top 50
+2025-09-29,named_model_visible_daily_top50,deepseek/deepseek-chat-v3.1:free,223316287738,223316287738,0,0.0,secondary value can omit days below the daily top 50
+2025-09-29,named_model_visible_daily_top50,openai/gpt-4.1-mini-2025-04-14,172344206304,172344206304,0,0.0,secondary value can omit days below the daily top 50
+2025-09-29,named_model_visible_daily_top50,google/gemini-2.0-flash-001,141389135392,141389135392,0,0.0,secondary value can omit days below the daily top 50
+2025-09-29,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,140810495744,140810495744,0,0.0,secondary value can omit days below the daily top 50
+2025-10-06,weekly_total,,5019711272244,5019711272244,0,0.0,none for the archived all-model daily total
+2025-10-06,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1184145939908,1184145939908,0,0.0,secondary value can omit days below the daily top 50
+2025-10-06,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,481823347564,481823347564,0,0.0,secondary value can omit days below the daily top 50
+2025-10-06,named_model_visible_daily_top50,google/gemini-2.5-flash,336454181427,336454181427,0,0.0,secondary value can omit days below the daily top 50
+2025-10-06,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,250450006175,250450006175,0,0.0,secondary value can omit days below the daily top 50
+2025-10-06,named_model_visible_daily_top50,x-ai/grok-4-fast,198829548928,198829548928,0,0.0,secondary value can omit days below the daily top 50
+2025-10-06,named_model_visible_daily_top50,openai/gpt-oss-20b,145704767415,145704767415,0,0.0,secondary value can omit days below the daily top 50
+2025-10-06,named_model_visible_daily_top50,google/gemini-2.5-pro,145223222880,145223222880,0,0.0,secondary value can omit days below the daily top 50
+2025-10-06,named_model_visible_daily_top50,google/gemini-2.0-flash-001,136620266374,136620266374,0,0.0,secondary value can omit days below the daily top 50
+2025-10-06,named_model_visible_daily_top50,qwen/qwen3-coder-30b-a3b-instruct,131942664810,131942664810,0,0.0,secondary value can omit days below the daily top 50
+2025-10-13,weekly_total,,4644497398186,4644497398186,0,0.0,none for the archived all-model daily total
+2025-10-13,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1173691048865,1173691048865,0,0.0,secondary value can omit days below the daily top 50
+2025-10-13,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,507568022561,507568022561,0,0.0,secondary value can omit days below the daily top 50
+2025-10-13,named_model_visible_daily_top50,google/gemini-2.5-flash,314536964672,314536964672,0,0.0,secondary value can omit days below the daily top 50
+2025-10-13,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,164332482523,164332482523,0,0.0,secondary value can omit days below the daily top 50
+2025-10-13,named_model_visible_daily_top50,x-ai/grok-4-fast,160461024827,160461024827,0,0.0,secondary value can omit days below the daily top 50
+2025-10-13,named_model_visible_daily_top50,google/gemini-2.5-pro,154163564504,154163564504,0,0.0,secondary value can omit days below the daily top 50
+2025-10-13,named_model_visible_daily_top50,google/gemini-2.0-flash-001,147329325885,147329325885,0,0.0,secondary value can omit days below the daily top 50
+2025-10-13,named_model_visible_daily_top50,deepseek/deepseek-chat-v3-0324,114480954283,114480954283,0,0.0,secondary value can omit days below the daily top 50
+2025-10-13,named_model_visible_daily_top50,tngtech/deepseek-r1t2-chimera:free,79039878033,79039878033,0,0.0,secondary value can omit days below the daily top 50
+2025-10-20,weekly_total,,4886312194357,4886312194357,0,0.0,none for the archived all-model daily total
+2025-10-20,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1269863180383,1269863180383,0,0.0,secondary value can omit days below the daily top 50
+2025-10-20,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,523625493331,523625493331,0,0.0,secondary value can omit days below the daily top 50
+2025-10-20,named_model_visible_daily_top50,google/gemini-2.5-flash,291420258676,291420258676,0,0.0,secondary value can omit days below the daily top 50
+2025-10-20,named_model_visible_daily_top50,google/gemini-2.5-pro,173406076510,173406076510,0,0.0,secondary value can omit days below the daily top 50
+2025-10-20,named_model_visible_daily_top50,x-ai/grok-4-fast,156196047559,156196047559,0,0.0,secondary value can omit days below the daily top 50
+2025-10-20,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,154890504849,154890504849,0,0.0,secondary value can omit days below the daily top 50
+2025-10-20,named_model_visible_daily_top50,google/gemini-2.0-flash-001,145820284204,145820284204,0,0.0,secondary value can omit days below the daily top 50
+2025-10-20,named_model_visible_daily_top50,deepseek/deepseek-chat-v3-0324,110948549313,110948549313,0,0.0,secondary value can omit days below the daily top 50
+2025-10-20,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,105069429007,105069429007,0,0.0,secondary value can omit days below the daily top 50
+2025-10-27,weekly_total,,5511159006188,5511159006188,0,0.0,none for the archived all-model daily total
+2025-10-27,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1465574805684,1465574805684,0,0.0,secondary value can omit days below the daily top 50
+2025-10-27,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,653674107181,653674107181,0,0.0,secondary value can omit days below the daily top 50
+2025-10-27,named_model_visible_daily_top50,google/gemini-2.5-flash,318701012078,318701012078,0,0.0,secondary value can omit days below the daily top 50
+2025-10-27,named_model_visible_daily_top50,minimax/minimax-m2:free,241892814799,241892814799,0,0.0,secondary value can omit days below the daily top 50
+2025-10-27,named_model_visible_daily_top50,google/gemini-2.5-pro,203556853438,203556853438,0,0.0,secondary value can omit days below the daily top 50
+2025-10-27,named_model_visible_daily_top50,x-ai/grok-4-fast,152263600638,152263600638,0,0.0,secondary value can omit days below the daily top 50
+2025-10-27,named_model_visible_daily_top50,google/gemini-2.0-flash-001,149671845769,149671845769,0,0.0,secondary value can omit days below the daily top 50
+2025-10-27,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,141237783344,141237783344,0,0.0,secondary value can omit days below the daily top 50
+2025-10-27,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,124167880370,124167880370,0,0.0,secondary value can omit days below the daily top 50
+2025-11-03,weekly_total,,5828207285497,5828207285497,0,0.0,none for the archived all-model daily total
+2025-11-03,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1363139013136,1363139013136,0,0.0,secondary value can omit days below the daily top 50
+2025-11-03,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,670493182017,670493182017,0,0.0,secondary value can omit days below the daily top 50
+2025-11-03,named_model_visible_daily_top50,google/gemini-2.5-flash,377479159403,377479159403,0,0.0,secondary value can omit days below the daily top 50
+2025-11-03,named_model_visible_daily_top50,minimax/minimax-m2:free,337514431030,337514431030,0,0.0,secondary value can omit days below the daily top 50
+2025-11-03,named_model_visible_daily_top50,x-ai/grok-4-fast,202893389453,202893389453,0,0.0,secondary value can omit days below the daily top 50
+2025-11-03,named_model_visible_daily_top50,google/gemini-2.5-pro,187964172337,187964172337,0,0.0,secondary value can omit days below the daily top 50
+2025-11-03,named_model_visible_daily_top50,google/gemini-2.0-flash-001,150860448168,150860448168,0,0.0,secondary value can omit days below the daily top 50
+2025-11-03,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,136243531723,136243531723,0,0.0,secondary value can omit days below the daily top 50
+2025-11-03,named_model_visible_daily_top50,anthropic/claude-4-sonnet-20250522,135092206688,135092206688,0,0.0,secondary value can omit days below the daily top 50
+2025-11-10,weekly_total,,5927714421614,5927714421614,0,0.0,none for the archived all-model daily total
+2025-11-10,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1453950804266,1453950804266,0,0.0,secondary value can omit days below the daily top 50
+2025-11-10,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,604026625556,604026625556,0,0.0,secondary value can omit days below the daily top 50
+2025-11-10,named_model_visible_daily_top50,google/gemini-2.5-flash,371226039396,371226039396,0,0.0,secondary value can omit days below the daily top 50
+2025-11-10,named_model_visible_daily_top50,minimax/minimax-m2,231658460278,231658460278,0,0.0,secondary value can omit days below the daily top 50
+2025-11-10,named_model_visible_daily_top50,x-ai/grok-4-fast,219424205307,219424205307,0,0.0,secondary value can omit days below the daily top 50
+2025-11-10,named_model_visible_daily_top50,google/gemini-2.5-pro,183796880820,183796880820,0,0.0,secondary value can omit days below the daily top 50
+2025-11-10,named_model_visible_daily_top50,google/gemini-2.0-flash-001,167907765355,167907765355,0,0.0,secondary value can omit days below the daily top 50
+2025-11-10,named_model_visible_daily_top50,openrouter/polaris-alpha,149977367605,149977367605,0,0.0,secondary value can omit days below the daily top 50
+2025-11-10,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,141905135748,141905135748,0,0.0,secondary value can omit days below the daily top 50
+2025-11-17,weekly_total,,6271832101668,6271832101668,0,0.0,none for the archived all-model daily total
+2025-11-17,named_model_visible_daily_top50,x-ai/grok-code-fast-1,1248210121244,1248210121244,0,0.0,secondary value can omit days below the daily top 50
+2025-11-17,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,497244811773,497244811773,0,0.0,secondary value can omit days below the daily top 50
+2025-11-17,named_model_visible_daily_top50,x-ai/grok-4.1-fast,389775237316,389743514723,-31722593,8.138688650013378e-05,secondary value can omit days below the daily top 50
+2025-11-17,named_model_visible_daily_top50,google/gemini-2.5-flash,367058142757,367058142757,0,0.0,secondary value can omit days below the daily top 50
+2025-11-17,named_model_visible_daily_top50,minimax/minimax-m2,201220890639,201220890639,0,0.0,secondary value can omit days below the daily top 50
+2025-11-17,named_model_visible_daily_top50,google/gemini-2.0-flash-001,187434340816,187434340816,0,0.0,secondary value can omit days below the daily top 50
+2025-11-17,named_model_visible_daily_top50,x-ai/grok-4-fast,164001941616,164001941616,0,0.0,secondary value can omit days below the daily top 50
+2025-11-17,named_model_visible_daily_top50,openrouter/sherlock-think-alpha,162963573231,162963563114,-10117,6.208135842516907e-08,secondary value can omit days below the daily top 50
+2025-11-17,named_model_visible_daily_top50,google/gemini-2.5-pro,156404237982,156404237982,0,0.0,secondary value can omit days below the daily top 50
+2025-11-24,weekly_total,,7184885909341,7184885909341,0,0.0,none for the archived all-model daily total
+2025-11-24,named_model_visible_daily_top50,x-ai/grok-4.1-fast:free,1579566240397,1579566240397,0,0.0,secondary value can omit days below the daily top 50
+2025-11-24,named_model_visible_daily_top50,x-ai/grok-code-fast-1,978467289633,978467289633,0,0.0,secondary value can omit days below the daily top 50
+2025-11-24,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,428078631214,428078631214,0,0.0,secondary value can omit days below the daily top 50
+2025-11-24,named_model_visible_daily_top50,google/gemini-2.5-flash,377447209398,377447209398,0,0.0,secondary value can omit days below the daily top 50
+2025-11-24,named_model_visible_daily_top50,x-ai/grok-4.1-fast,203047614149,203047614149,0,0.0,secondary value can omit days below the daily top 50
+2025-11-24,named_model_visible_daily_top50,minimax/minimax-m2,175044596604,175044596604,0,0.0,secondary value can omit days below the daily top 50
+2025-11-24,named_model_visible_daily_top50,google/gemini-2.0-flash-001,168291362347,168291362347,0,0.0,secondary value can omit days below the daily top 50
+2025-11-24,named_model_visible_daily_top50,google/gemini-3-pro-preview-20251117,154705440509,154705440509,0,0.0,secondary value can omit days below the daily top 50
+2025-11-24,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,151423355216,151423355216,0,0.0,secondary value can omit days below the daily top 50
+2025-12-01,weekly_total,,6183689082546,6183689082546,0,0.0,none for the archived all-model daily total
+2025-12-01,named_model_visible_daily_top50,x-ai/grok-code-fast-1,878555435971,878555435971,0,0.0,secondary value can omit days below the daily top 50
+2025-12-01,named_model_visible_daily_top50,x-ai/grok-4.1-fast:free,585015423470,585015423470,0,0.0,secondary value can omit days below the daily top 50
+2025-12-01,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,429159402329,429159402329,0,0.0,secondary value can omit days below the daily top 50
+2025-12-01,named_model_visible_daily_top50,google/gemini-2.5-flash,398751131821,398751131821,0,0.0,secondary value can omit days below the daily top 50
+2025-12-01,named_model_visible_daily_top50,anthropic/claude-4.5-opus-20251124,208814771437,208814771437,0,0.0,secondary value can omit days below the daily top 50
+2025-12-01,named_model_visible_daily_top50,google/gemini-3-pro-preview-20251117,170461362641,170461362641,0,0.0,secondary value can omit days below the daily top 50
+2025-12-01,named_model_visible_daily_top50,google/gemini-2.0-flash-001,165256172246,165256172246,0,0.0,secondary value can omit days below the daily top 50
+2025-12-01,named_model_visible_daily_top50,google/gemini-2.5-pro,162065233898,162065233898,0,0.0,secondary value can omit days below the daily top 50
+2025-12-01,named_model_visible_daily_top50,x-ai/grok-4-fast,161876440865,161876440865,0,0.0,secondary value can omit days below the daily top 50
+2025-12-08,weekly_total,,5772746635719,5772746635719,0,0.0,none for the archived all-model daily total
+2025-12-08,named_model_visible_daily_top50,x-ai/grok-code-fast-1,618469718813,618469718813,0,0.0,secondary value can omit days below the daily top 50
+2025-12-08,named_model_visible_daily_top50,google/gemini-2.5-flash,453242014019,453242014019,0,0.0,secondary value can omit days below the daily top 50
+2025-12-08,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,430777771586,430777771586,0,0.0,secondary value can omit days below the daily top 50
+2025-12-08,named_model_visible_daily_top50,openai/gpt-oss-120b,323018614438,323018614438,0,0.0,secondary value can omit days below the daily top 50
+2025-12-08,named_model_visible_daily_top50,anthropic/claude-4.5-opus-20251124,211974303282,211974303282,0,0.0,secondary value can omit days below the daily top 50
+2025-12-08,named_model_visible_daily_top50,google/gemini-2.0-flash-001,189082856905,189082856905,0,0.0,secondary value can omit days below the daily top 50
+2025-12-08,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,168402695203,168402695203,0,0.0,secondary value can omit days below the daily top 50
+2025-12-08,named_model_visible_daily_top50,x-ai/grok-4-fast,159985083087,159985083087,0,0.0,secondary value can omit days below the daily top 50
+2025-12-08,named_model_visible_daily_top50,google/gemini-2.5-pro,155321637073,155321637073,0,0.0,secondary value can omit days below the daily top 50
+2025-12-15,weekly_total,,5840500610903,5840500610903,0,0.0,none for the archived all-model daily total
+2025-12-15,named_model_visible_daily_top50,x-ai/grok-code-fast-1,517261241082,517261241082,0,0.0,secondary value can omit days below the daily top 50
+2025-12-15,named_model_visible_daily_top50,google/gemini-2.5-flash,438708651368,438708651368,0,0.0,secondary value can omit days below the daily top 50
+2025-12-15,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,416299356874,416299356874,0,0.0,secondary value can omit days below the daily top 50
+2025-12-15,named_model_visible_daily_top50,openai/gpt-oss-120b,220245506891,220245506891,0,0.0,secondary value can omit days below the daily top 50
+2025-12-15,named_model_visible_daily_top50,anthropic/claude-4.5-opus-20251124,209253116284,209253116284,0,0.0,secondary value can omit days below the daily top 50
+2025-12-15,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,205450473114,205450473114,0,0.0,secondary value can omit days below the daily top 50
+2025-12-15,named_model_visible_daily_top50,google/gemini-2.0-flash-001,184561836303,184561836303,0,0.0,secondary value can omit days below the daily top 50
+2025-12-15,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,182341260426,182341260426,0,0.0,secondary value can omit days below the daily top 50
+2025-12-15,named_model_visible_daily_top50,xiaomi/mimo-v2-flash-20251210:free,170776227913,169593704996,-1182522917,0.0069244000259943836,secondary value can omit days below the daily top 50
+2025-12-22,weekly_total,,5664949208500,5664949208500,0,0.0,none for the archived all-model daily total
+2025-12-22,named_model_visible_daily_top50,x-ai/grok-code-fast-1,481948335409,481948335409,0,0.0,secondary value can omit days below the daily top 50
+2025-12-22,named_model_visible_daily_top50,xiaomi/mimo-v2-flash-20251210:free,378754384454,378754384454,0,0.0,secondary value can omit days below the daily top 50
+2025-12-22,named_model_visible_daily_top50,google/gemini-2.5-flash,377291061962,377291061962,0,0.0,secondary value can omit days below the daily top 50
+2025-12-22,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,360764900500,360764900500,0,0.0,secondary value can omit days below the daily top 50
+2025-12-22,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,327352087397,327352087397,0,0.0,secondary value can omit days below the daily top 50
+2025-12-22,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,229832776027,229832776027,0,0.0,secondary value can omit days below the daily top 50
+2025-12-22,named_model_visible_daily_top50,x-ai/grok-4.1-fast,199151935829,199151935829,0,0.0,secondary value can omit days below the daily top 50
+2025-12-22,named_model_visible_daily_top50,anthropic/claude-4.5-opus-20251124,183314603079,183314603079,0,0.0,secondary value can omit days below the daily top 50
+2025-12-22,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,157726837504,157726837504,0,0.0,secondary value can omit days below the daily top 50
+2025-12-29,weekly_total,,5566541388683,5566541388683,0,0.0,none for the archived all-model daily total
+2025-12-29,named_model_visible_daily_top50,x-ai/grok-code-fast-1,409114561828,409114561828,0,0.0,secondary value can omit days below the daily top 50
+2025-12-29,named_model_visible_daily_top50,google/gemini-2.5-flash,352492796625,352492796625,0,0.0,secondary value can omit days below the daily top 50
+2025-12-29,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,352169109488,352169109488,0,0.0,secondary value can omit days below the daily top 50
+2025-12-29,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,351575566114,351575566114,0,0.0,secondary value can omit days below the daily top 50
+2025-12-29,named_model_visible_daily_top50,xiaomi/mimo-v2-flash-20251210:free,351029002678,351029002678,0,0.0,secondary value can omit days below the daily top 50
+2025-12-29,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,291279272785,291279272785,0,0.0,secondary value can omit days below the daily top 50
+2025-12-29,named_model_visible_daily_top50,x-ai/grok-4.1-fast,196109774226,196109774226,0,0.0,secondary value can omit days below the daily top 50
+2025-12-29,named_model_visible_daily_top50,anthropic/claude-4.5-opus-20251124,177921941194,177921941194,0,0.0,secondary value can omit days below the daily top 50
+2025-12-29,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,164978482852,164978482852,0,0.0,secondary value can omit days below the daily top 50
+2026-01-05,weekly_total,,6419683711082,6419683711082,0,0.0,none for the archived all-model daily total
+2026-01-05,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,530610171817,530610171817,0,0.0,secondary value can omit days below the daily top 50
+2026-01-05,named_model_visible_daily_top50,x-ai/grok-code-fast-1,412784694715,412784694715,0,0.0,secondary value can omit days below the daily top 50
+2026-01-05,named_model_visible_daily_top50,xiaomi/mimo-v2-flash-20251210:free,397319307841,397319307841,0,0.0,secondary value can omit days below the daily top 50
+2026-01-05,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,386510445663,386510445663,0,0.0,secondary value can omit days below the daily top 50
+2026-01-05,named_model_visible_daily_top50,anthropic/claude-4.5-opus-20251124,370078653644,370078653644,0,0.0,secondary value can omit days below the daily top 50
+2026-01-05,named_model_visible_daily_top50,google/gemini-2.5-flash,364169867941,364169867941,0,0.0,secondary value can omit days below the daily top 50
+2026-01-05,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,311288088430,311288088430,0,0.0,secondary value can omit days below the daily top 50
+2026-01-05,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,253468096928,253468096928,0,0.0,secondary value can omit days below the daily top 50
+2026-01-05,named_model_visible_daily_top50,x-ai/grok-4.1-fast,241297445504,241297445504,0,0.0,secondary value can omit days below the daily top 50
+2026-01-12,weekly_total,,7643272557692,7643272557692,0,0.0,none for the archived all-model daily total
+2026-01-12,named_model_visible_daily_top50,anthropic/claude-4.5-opus-20251124,622642470552,622642470552,0,0.0,secondary value can omit days below the daily top 50
+2026-01-12,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,615133712040,615133712040,0,0.0,secondary value can omit days below the daily top 50
+2026-01-12,named_model_visible_daily_top50,xiaomi/mimo-v2-flash-20251210:free,546049737672,546049737672,0,0.0,secondary value can omit days below the daily top 50
+2026-01-12,named_model_visible_daily_top50,x-ai/grok-code-fast-1,467821616715,467821616715,0,0.0,secondary value can omit days below the daily top 50
+2026-01-12,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,447747464062,447747464062,0,0.0,secondary value can omit days below the daily top 50
+2026-01-12,named_model_visible_daily_top50,google/gemini-2.5-pro,388791936375,388791936375,0,0.0,secondary value can omit days below the daily top 50
+2026-01-12,named_model_visible_daily_top50,google/gemini-2.5-flash,376492238774,376492238774,0,0.0,secondary value can omit days below the daily top 50
+2026-01-12,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,354989002611,354989002611,0,0.0,secondary value can omit days below the daily top 50
+2026-01-12,named_model_visible_daily_top50,x-ai/grok-4.1-fast,283549381448,283549381448,0,0.0,secondary value can omit days below the daily top 50
+2026-01-19,weekly_total,,7493679593018,7493679593018,0,0.0,none for the archived all-model daily total
+2026-01-19,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,713132098351,713132098351,0,0.0,secondary value can omit days below the daily top 50
+2026-01-19,named_model_visible_daily_top50,xiaomi/mimo-v2-flash-20251210:free,575094656309,575094656309,0,0.0,secondary value can omit days below the daily top 50
+2026-01-19,named_model_visible_daily_top50,x-ai/grok-code-fast-1,539747530096,539747530096,0,0.0,secondary value can omit days below the daily top 50
+2026-01-19,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,537303435247,537303435247,0,0.0,secondary value can omit days below the daily top 50
+2026-01-19,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,395597880927,395597880927,0,0.0,secondary value can omit days below the daily top 50
+2026-01-19,named_model_visible_daily_top50,google/gemini-2.5-flash,364622244963,364622244963,0,0.0,secondary value can omit days below the daily top 50
+2026-01-19,named_model_visible_daily_top50,anthropic/claude-4.5-opus-20251124,363860628252,363860628252,0,0.0,secondary value can omit days below the daily top 50
+2026-01-19,named_model_visible_daily_top50,x-ai/grok-4.1-fast,282628544406,282628544406,0,0.0,secondary value can omit days below the daily top 50
+2026-01-19,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,266962657002,266962657002,0,0.0,secondary value can omit days below the daily top 50
+2026-01-26,weekly_total,,8249934351918,8249934351918,0,0.0,none for the archived all-model daily total
+2026-01-26,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,774547335543,774547335543,0,0.0,secondary value can omit days below the daily top 50
+2026-01-26,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,688836171168,688836171168,0,0.0,secondary value can omit days below the daily top 50
+2026-01-26,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,507333780688,507333780688,0,0.0,secondary value can omit days below the daily top 50
+2026-01-26,named_model_visible_daily_top50,x-ai/grok-code-fast-1,421626971930,421626971930,0,0.0,secondary value can omit days below the daily top 50
+2026-01-26,named_model_visible_daily_top50,google/gemini-2.5-flash,405901304680,405901304680,0,0.0,secondary value can omit days below the daily top 50
+2026-01-26,named_model_visible_daily_top50,anthropic/claude-4.5-opus-20251124,377870999007,377870999007,0,0.0,secondary value can omit days below the daily top 50
+2026-01-26,named_model_visible_daily_top50,moonshotai/kimi-k2.5-0127,359303717844,359303717844,0,0.0,secondary value can omit days below the daily top 50
+2026-01-26,named_model_visible_daily_top50,x-ai/grok-4.1-fast,316457561436,316457561436,0,0.0,secondary value can omit days below the daily top 50
+2026-01-26,named_model_visible_daily_top50,openai/gpt-oss-120b,304442038445,304442038445,0,0.0,secondary value can omit days below the daily top 50
+2026-02-02,weekly_total,,9804326929861,9804326929861,0,0.0,none for the archived all-model daily total
+2026-02-02,named_model_visible_daily_top50,moonshotai/kimi-k2.5-0127,1158732930908,1158732930908,0,0.0,secondary value can omit days below the daily top 50
+2026-02-02,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,763783933324,763783933324,0,0.0,secondary value can omit days below the daily top 50
+2026-02-02,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,705481897429,705481897429,0,0.0,secondary value can omit days below the daily top 50
+2026-02-02,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,664682565362,664682565362,0,0.0,secondary value can omit days below the daily top 50
+2026-02-02,named_model_visible_daily_top50,minimax/minimax-m2.1,441758871528,441758871528,0,0.0,secondary value can omit days below the daily top 50
+2026-02-02,named_model_visible_daily_top50,google/gemini-2.5-flash,429501787066,429501787066,0,0.0,secondary value can omit days below the daily top 50
+2026-02-02,named_model_visible_daily_top50,anthropic/claude-4.5-opus-20251124,369782947073,369782947073,0,0.0,secondary value can omit days below the daily top 50
+2026-02-02,named_model_visible_daily_top50,x-ai/grok-4.1-fast,344786863728,344786863728,0,0.0,secondary value can omit days below the daily top 50
+2026-02-02,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,343595255951,343595255951,0,0.0,secondary value can omit days below the daily top 50
+2026-02-09,weekly_total,,13014630127221,13014630127221,0,0.0,none for the archived all-model daily total
+2026-02-09,named_model_visible_daily_top50,minimax/minimax-m2.5-20260211,1438446017172,1438446017172,0,0.0,secondary value can omit days below the daily top 50
+2026-02-09,named_model_visible_daily_top50,moonshotai/kimi-k2.5-0127,1295857489162,1295857489162,0,0.0,secondary value can omit days below the daily top 50
+2026-02-09,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,775913082169,775913082169,0,0.0,secondary value can omit days below the daily top 50
+2026-02-09,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,756298773017,756298773017,0,0.0,secondary value can omit days below the daily top 50
+2026-02-09,named_model_visible_daily_top50,z-ai/glm-5-20260211,628399174149,628399174149,0,0.0,secondary value can omit days below the daily top 50
+2026-02-09,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,626327358310,626327358310,0,0.0,secondary value can omit days below the daily top 50
+2026-02-09,named_model_visible_daily_top50,x-ai/grok-4.1-fast,556795772174,556795772174,0,0.0,secondary value can omit days below the daily top 50
+2026-02-09,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,523687912384,523687912384,0,0.0,secondary value can omit days below the daily top 50
+2026-02-09,named_model_visible_daily_top50,google/gemini-2.5-flash,450389022307,450389022307,0,0.0,secondary value can omit days below the daily top 50
+2026-02-16,weekly_total,,13947727801492,13947727801492,0,0.0,none for the archived all-model daily total
+2026-02-16,named_model_visible_daily_top50,minimax/minimax-m2.5-20260211,2570426255378,2570426255378,0,0.0,secondary value can omit days below the daily top 50
+2026-02-16,named_model_visible_daily_top50,moonshotai/kimi-k2.5-0127,1036388353348,1036388353348,0,0.0,secondary value can omit days below the daily top 50
+2026-02-16,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,858773075468,858773075468,0,0.0,secondary value can omit days below the daily top 50
+2026-02-16,named_model_visible_daily_top50,z-ai/glm-5-20260211,803177700976,803177700976,0,0.0,secondary value can omit days below the daily top 50
+2026-02-16,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,744867056791,744867056791,0,0.0,secondary value can omit days below the daily top 50
+2026-02-16,named_model_visible_daily_top50,x-ai/grok-4.1-fast,668806105669,668806105669,0,0.0,secondary value can omit days below the daily top 50
+2026-02-16,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,642879385684,642879385684,0,0.0,secondary value can omit days below the daily top 50
+2026-02-16,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,534086153166,534086153166,0,0.0,secondary value can omit days below the daily top 50
+2026-02-16,named_model_visible_daily_top50,arcee-ai/trinity-large-preview:free,449290564622,449290564622,0,0.0,secondary value can omit days below the daily top 50
+2026-02-23,weekly_total,,13615671189056,13615671203983,14927,1.0963102584320647e-09,none for the archived all-model daily total
+2026-02-23,named_model_visible_daily_top50,minimax/minimax-m2.5-20260211,1625442992101,1625442992101,0,0.0,secondary value can omit days below the daily top 50
+2026-02-23,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,1027301048775,1027301048775,0,0.0,secondary value can omit days below the daily top 50
+2026-02-23,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,799864437550,799864437550,0,0.0,secondary value can omit days below the daily top 50
+2026-02-23,named_model_visible_daily_top50,moonshotai/kimi-k2.5-0127,691882843163,691882843163,0,0.0,secondary value can omit days below the daily top 50
+2026-02-23,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,635674078354,635674078354,0,0.0,secondary value can omit days below the daily top 50
+2026-02-23,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,633827272042,633827272042,0,0.0,secondary value can omit days below the daily top 50
+2026-02-23,named_model_visible_daily_top50,x-ai/grok-4.1-fast,594741811287,594741811287,0,0.0,secondary value can omit days below the daily top 50
+2026-02-23,named_model_visible_daily_top50,arcee-ai/trinity-large-preview:free,537106865199,537106865199,0,0.0,secondary value can omit days below the daily top 50
+2026-02-23,named_model_visible_daily_top50,anthropic/claude-4.5-sonnet-20250929,529049750120,529049750120,0,0.0,secondary value can omit days below the daily top 50
+2026-03-02,weekly_total,,14788910154996,14809516716308,20606561312,0.0013933793021954817,none for the archived all-model daily total
+2026-03-02,named_model_visible_daily_top50,minimax/minimax-m2.5-20260211,1863862322159,1865613599379,1751277220,0.0009395958055375103,secondary value can omit days below the daily top 50
+2026-03-02,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,1042788149999,1043763050503,974900504,0.0009348979502700859,secondary value can omit days below the daily top 50
+2026-03-02,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,831497917353,832235127993,737210640,0.0008866055159186024,secondary value can omit days below the daily top 50
+2026-03-02,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,770658476799,771409947219,751470420,0.000975101737829837,secondary value can omit days below the daily top 50
+2026-03-02,named_model_visible_daily_top50,stepfun/step-3.5-flash:free,747289037389,747971888168,682850779,0.0009137706360391089,secondary value can omit days below the daily top 50
+2026-03-02,named_model_visible_daily_top50,moonshotai/kimi-k2.5-0127,743063515801,743795000637,731484836,0.0009844176445824842,secondary value can omit days below the daily top 50
+2026-03-02,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,679687926923,680322507868,634580945,0.0009336357464414547,secondary value can omit days below the daily top 50
+2026-03-02,named_model_visible_daily_top50,x-ai/grok-4.1-fast,614542866815,615212396118,669529303,0.0010894753468866688,secondary value can omit days below the daily top 50
+2026-03-02,named_model_visible_daily_top50,arcee-ai/trinity-large-preview:free,526366028712,526863703214,497674502,0.0009454913023505578,secondary value can omit days below the daily top 50
+2026-03-09,weekly_total,,16874474880619,16903381146109,28906265490,0.0017130171868755446,none for the archived all-model daily total
+2026-03-09,named_model_visible_daily_top50,minimax/minimax-m2.5-20260211,1747235642978,1748857027498,1621384520,0.0009279712936925334,secondary value can omit days below the daily top 50
+2026-03-09,named_model_visible_daily_top50,stepfun/step-3.5-flash:free,1340325199219,1341662982897,1337783678,0.0009981038025544241,secondary value can omit days below the daily top 50
+2026-03-09,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,1036108388599,1037074241076,965852477,0.0009321925076834883,secondary value can omit days below the daily top 50
+2026-03-09,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,1015611794315,1016646855407,1035061092,0.0010191503267231335,secondary value can omit days below the daily top 50
+2026-03-09,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,889263434264,890136161881,872727617,0.0009814050408159581,secondary value can omit days below the daily top 50
+2026-03-09,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,821171425089,821957740637,786315548,0.0009575534705372605,secondary value can omit days below the daily top 50
+2026-03-09,named_model_visible_daily_top50,openrouter/hunter-alpha,665677892611,662977760932,-2700131679,0.004056213536563797,secondary value can omit days below the daily top 50
+2026-03-09,named_model_visible_daily_top50,google/gemini-2.5-flash,561461180291,562122877891,661697600,0.0011785277829128782,secondary value can omit days below the daily top 50
+2026-03-09,named_model_visible_daily_top50,moonshotai/kimi-k2.5-0127,559481288982,560040522503,559233521,0.0009995571469736712,secondary value can omit days below the daily top 50
+2026-03-16,weekly_total,,20296794834531,20350309854304,53515019773,0.002636624166982007,none for the archived all-model daily total
+2026-03-16,named_model_visible_daily_top50,xiaomi/mimo-v2-pro-20260318,1490889230665,1492746985422,1857754757,0.001246071618728752,secondary value can omit days below the daily top 50
+2026-03-16,named_model_visible_daily_top50,stepfun/step-3.5-flash:free,1478698121257,1481708629238,3010507981,0.002035917904893834,secondary value can omit days below the daily top 50
+2026-03-16,named_model_visible_daily_top50,minimax/minimax-m2.5-20260211,1298293090489,1301222655272,2929564783,0.002256474138591144,secondary value can omit days below the daily top 50
+2026-03-16,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,1133701193950,1136086233754,2385039804,0.0021037640400555033,secondary value can omit days below the daily top 50
+2026-03-16,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1036832500557,1039411568559,2579068002,0.0024874490340672105,secondary value can omit days below the daily top 50
+2026-03-16,named_model_visible_daily_top50,z-ai/glm-5-turbo-20260315,1027523143002,1029823770704,2300627702,0.002239003294153076,secondary value can omit days below the daily top 50
+2026-03-16,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,973536759725,975877797658,2341037933,0.002404673382504103,secondary value can omit days below the daily top 50
+2026-03-16,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,936992864996,939106089653,2113224657,0.0022553263060429186,secondary value can omit days below the daily top 50
+2026-03-16,named_model_visible_daily_top50,openrouter/hunter-alpha,915850383552,918548639646,2698256094,0.002946175644470644,secondary value can omit days below the daily top 50
+2026-03-23,weekly_total,,22639924441575,22729837178338,89912736763,0.003971423888583659,none for the archived all-model daily total
+2026-03-23,named_model_visible_daily_top50,xiaomi/mimo-v2-pro-20260318,3946528663437,3958528399676,11999736239,0.0030405800292729983,secondary value can omit days below the daily top 50
+2026-03-23,named_model_visible_daily_top50,stepfun/step-3.5-flash:free,1484868226097,1489372179296,4503953199,0.003033234276174603,secondary value can omit days below the daily top 50
+2026-03-23,named_model_visible_daily_top50,minimax/minimax-m2.7-20260318,1284321949429,1288136863849,3814914420,0.0029703723600582256,secondary value can omit days below the daily top 50
+2026-03-23,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,1237642391651,1241467556632,3825164981,0.0030906867822273576,secondary value can omit days below the daily top 50
+2026-03-23,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1034472500959,1037854541886,3382040927,0.0032693386473441337,secondary value can omit days below the daily top 50
+2026-03-23,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,991680817696,994992602411,3311784715,0.00333956718321361,secondary value can omit days below the daily top 50
+2026-03-23,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,968332980979,971541820908,3208839929,0.0033137773803344093,secondary value can omit days below the daily top 50
+2026-03-23,named_model_visible_daily_top50,z-ai/glm-5-turbo-20260315,964789263192,967643615893,2854352701,0.002958524529549997,secondary value can omit days below the daily top 50
+2026-03-23,named_model_visible_daily_top50,minimax/minimax-m2.5-20260211,905847627573,908860908187,3013280614,0.0033264762442148884,secondary value can omit days below the daily top 50
+2026-03-30,weekly_total,,27005556400914,27038504132444,32947731530,0.0012200352786986047,none for the archived all-model daily total
+2026-03-30,named_model_visible_daily_top50,qwen/qwen3.6-plus-04-02:free,4600778695301,4602505412335,1726717034,0.0003753097352332075,secondary value can omit days below the daily top 50
+2026-03-30,named_model_visible_daily_top50,xiaomi/mimo-v2-pro-20260318,3075697429178,3077424954738,1727525560,0.000561669539926654,secondary value can omit days below the daily top 50
+2026-03-30,named_model_visible_daily_top50,qwen/qwen3.6-plus-preview:free,1640268925383,1641025011559,756086176,0.00046095256960589873,secondary value can omit days below the daily top 50
+2026-03-30,named_model_visible_daily_top50,stepfun/step-3.5-flash:free,1256799449929,1257428688264,629238335,0.000500667258436139,secondary value can omit days below the daily top 50
+2026-03-30,named_model_visible_daily_top50,minimax/minimax-m2.7-20260318,1192741302894,1193268514189,527211295,0.0004420164655326384,secondary value can omit days below the daily top 50
+2026-03-30,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,1187999574546,1188575531940,575957394,0.0004848127948363155,secondary value can omit days below the daily top 50
+2026-03-30,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1032269887695,1032778246970,508359275,0.000492467407080078,secondary value can omit days below the daily top 50
+2026-03-30,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,1016536598150,1017068913402,532315252,0.0005236557670119927,secondary value can omit days below the daily top 50
+2026-03-30,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,979555999040,980042126545,486127505,0.0004962733171727011,secondary value can omit days below the daily top 50
+2026-04-06,weekly_total,,20990845815775,21035685456873,44839641098,0.0021361521823147402,none for the archived all-model daily total
+2026-04-06,named_model_visible_daily_top50,qwen/qwen3.6-plus-04-02:free,1663454147264,1663578314514,124167250,7.464422761771138e-05,secondary value can omit days below the daily top 50
+2026-04-06,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,1266925587296,1267540753355,615166059,0.00048555816155939295,secondary value can omit days below the daily top 50
+2026-04-06,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,1193340329942,1193892051678,551721736,0.0004623339395785068,secondary value can omit days below the daily top 50
+2026-04-06,named_model_visible_daily_top50,minimax/minimax-m2.7-20260318,1187954408629,1188474742896,520334267,0.0004380086165095425,secondary value can omit days below the daily top 50
+2026-04-06,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1161420928974,1161986521199,565592225,0.00048698297997750437,secondary value can omit days below the daily top 50
+2026-04-06,named_model_visible_daily_top50,minimax/minimax-m2.5-20260211,1100417113407,1100922178187,505064780,0.00045897575914306674,secondary value can omit days below the daily top 50
+2026-04-06,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,1062679747314,1063213258331,533511017,0.0005020430833922334,secondary value can omit days below the daily top 50
+2026-04-06,named_model_visible_daily_top50,nvidia/nemotron-3-super-120b-a12b-20230311:free,658754619735,659092546817,337927082,0.0005129786902078035,secondary value can omit days below the daily top 50
+2026-04-06,named_model_visible_daily_top50,xiaomi/mimo-v2-pro-20260318,605710580136,605954104113,243523977,0.0004020467612524147,secondary value can omit days below the daily top 50
+2026-04-13,weekly_total,,20469273117201,20558096445717,88823328516,0.004339349424252826,none for the archived all-model daily total
+2026-04-13,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1380904443289,1382692261414,1787818125,0.0012946718606696812,secondary value can omit days below the daily top 50
+2026-04-13,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,1279545315597,1281035947444,1490631847,0.0011649699536467866,secondary value can omit days below the daily top 50
+2026-04-13,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,1218729940297,1220131453321,1401513024,0.001149978332081065,secondary value can omit days below the daily top 50
+2026-04-13,named_model_visible_daily_top50,xiaomi/mimo-v2-pro-20260318,1148465936210,1149648170447,1182234237,0.001029402962443481,secondary value can omit days below the daily top 50
+2026-04-13,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,1142369944786,1143763897139,1393952353,0.0012202284902209405,secondary value can omit days below the daily top 50
+2026-04-13,named_model_visible_daily_top50,minimax/minimax-m2.5-20260211,1049049106930,1050209943979,1160837049,0.0011065612098914443,secondary value can omit days below the daily top 50
+2026-04-13,named_model_visible_daily_top50,minimax/minimax-m2.7-20260318,959756684781,960792495333,1035810552,0.0010792428627223933,secondary value can omit days below the daily top 50
+2026-04-13,named_model_visible_daily_top50,google/gemini-2.5-flash-lite,593873833207,594779621178,905787971,0.0015252195337663236,secondary value can omit days below the daily top 50
+2026-04-13,named_model_visible_daily_top50,x-ai/grok-4.1-fast,572132828528,572690706202,557877674,0.0009750841870677547,secondary value can omit days below the daily top 50
+2026-04-20,weekly_total,,21883269650188,21952515720803,69246070615,0.0031643384065509197,none for the archived all-model daily total
+2026-04-20,named_model_visible_daily_top50,moonshotai/kimi-k2.6-20260420,1580692059875,1582731618468,2039558593,0.0012902947036763674,secondary value can omit days below the daily top 50
+2026-04-20,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1355844165448,1357137293382,1293127934,0.000953743775983815,secondary value can omit days below the daily top 50
+2026-04-20,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,1274992880096,1276619683580,1626803484,0.0012759314262817771,secondary value can omit days below the daily top 50
+2026-04-20,named_model_visible_daily_top50,anthropic/claude-4.7-opus-20260416,1149277337287,1150375018431,1097681144,0.0009551055331789638,secondary value can omit days below the daily top 50
+2026-04-20,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,1038118400206,1039352991329,1234591123,0.001189258491858937,secondary value can omit days below the daily top 50
+2026-04-20,named_model_visible_daily_top50,minimax/minimax-m2.7-20260318,788933709936,789751962986,818253050,0.0010371632491991988,secondary value can omit days below the daily top 50
+2026-04-20,named_model_visible_daily_top50,x-ai/grok-4.1-fast,745771584900,746510297464,738712564,0.000990534607320891,secondary value can omit days below the daily top 50
+2026-04-20,named_model_visible_daily_top50,stepfun/step-3.5-flash,720118153198,720802760804,684607606,0.0009506878877580022,secondary value can omit days below the daily top 50
+2026-04-20,named_model_visible_daily_top50,anthropic/claude-4.6-opus-20260205,684507999574,685116502632,608503058,0.0008889641295334733,secondary value can omit days below the daily top 50
+2026-04-27,weekly_total,,23797756813570,23868567337447,70810523877,0.0029755125422839136,none for the archived all-model daily total
+2026-04-27,named_model_visible_daily_top50,tencent/hy3-preview-20260421:free,3031227447921,3034887257834,3659809913,0.001207368953956299,secondary value can omit days below the daily top 50
+2026-04-27,named_model_visible_daily_top50,moonshotai/kimi-k2.6-20260420,1811791095354,1815561993981,3770898627,0.0020813098357033355,secondary value can omit days below the daily top 50
+2026-04-27,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1344034901583,1346371084887,2336183304,0.0017381864870089688,secondary value can omit days below the daily top 50
+2026-04-27,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,971001280950,972564901541,1563620591,0.0016103177428048274,secondary value can omit days below the daily top 50
+2026-04-27,named_model_visible_daily_top50,anthropic/claude-4.7-opus-20260416,933450722221,935043078486,1592356265,0.0017058814430088364,secondary value can omit days below the daily top 50
+2026-04-27,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,905974225998,907390616939,1416390941,0.0015633898850044403,secondary value can omit days below the daily top 50
+2026-04-27,named_model_visible_daily_top50,stepfun/step-3.5-flash,750526540997,751836915230,1310374233,0.0017459398987533445,secondary value can omit days below the daily top 50
+2026-04-27,named_model_visible_daily_top50,minimax/minimax-m2.7-20260318,727960465614,729151777103,1191311489,0.0016365057517171422,secondary value can omit days below the daily top 50
+2026-04-27,named_model_visible_daily_top50,deepseek/deepseek-v4-flash-20260423,703323210254,703926874373,603664119,0.0008583025701398239,secondary value can omit days below the daily top 50
+2026-05-04,weekly_total,,25731788579578,25743482276269,11693696691,0.00045444554523818396,none for the archived all-model daily total
+2026-05-04,named_model_visible_daily_top50,tencent/hy3-preview-20260421:free,2676587886276,2677968406380,1380520104,0.0005157761159566295,secondary value can omit days below the daily top 50
+2026-05-04,named_model_visible_daily_top50,moonshotai/kimi-k2.6-20260420,1613682885848,1614405446923,722561075,0.0004477714186206355,secondary value can omit days below the daily top 50
+2026-05-04,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1451951786344,1452624943317,673156973,0.00046362212528764643,secondary value can omit days below the daily top 50
+2026-05-04,named_model_visible_daily_top50,anthropic/claude-4.7-opus-20260416,1234510369345,1235070892240,560522895,0.0004540447038103044,secondary value can omit days below the daily top 50
+2026-05-04,named_model_visible_daily_top50,deepseek/deepseek-v4-flash-20260423,1110849801720,1110929339797,79538077,7.160110833782037e-05,secondary value can omit days below the daily top 50
+2026-05-04,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,1074465907650,1074963895440,497987790,0.0004634747240041944,secondary value can omit days below the daily top 50
+2026-05-04,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,867229931231,867633499809,403568578,0.00046535360861813164,secondary value can omit days below the daily top 50
+2026-05-04,named_model_visible_daily_top50,tencent/hy3-preview-20260421,856331701786,854797787055,-1533914731,0.0017912623435530945,secondary value can omit days below the daily top 50
+2026-05-04,named_model_visible_daily_top50,deepseek/deepseek-v4-pro-20260423,815625270944,815996308839,371037895,0.00045491221056768246,secondary value can omit days below the daily top 50
+2026-05-11,weekly_total,,26905682372472,26915340470606,9658098134,0.0003589612781529557,none for the archived all-model daily total
+2026-05-11,named_model_visible_daily_top50,tencent/hy3-preview-20260421,2655590909703,2656457598257,866688554,0.00032636372975720495,secondary value can omit days below the daily top 50
+2026-05-11,named_model_visible_daily_top50,deepseek/deepseek-v4-flash-20260423,2062273457044,2063085404733,811947689,0.00039371485203704317,secondary value can omit days below the daily top 50
+2026-05-11,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1545920378055,1546443421143,523043088,0.000338337663067788,secondary value can omit days below the daily top 50
+2026-05-11,named_model_visible_daily_top50,anthropic/claude-4.7-opus-20260416,1535373262384,1535874125107,500862723,0.00032621560845882,secondary value can omit days below the daily top 50
+2026-05-11,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,1151021632335,1151406002636,384370301,0.0003339383815230769,secondary value can omit days below the daily top 50
+2026-05-11,named_model_visible_daily_top50,moonshotai/kimi-k2.6-20260420,1054473801545,1054857291059,383489514,0.00036367856028107727,secondary value can omit days below the daily top 50
+2026-05-11,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,1025365344299,1025705119580,339775281,0.00033136996767946193,secondary value can omit days below the daily top 50
+2026-05-11,named_model_visible_daily_top50,openrouter/owl-alpha,894787042736,895103633962,316591226,0.0003538174011013342,secondary value can omit days below the daily top 50
+2026-05-11,named_model_visible_daily_top50,deepseek/deepseek-v4-pro-20260423,892757745368,893077879969,320134601,0.00035859067329406215,secondary value can omit days below the daily top 50
+2026-05-18,weekly_total,,28920204910828,28931151161426,10946250598,0.0003784983761958623,none for the archived all-model daily total
+2026-05-18,named_model_visible_daily_top50,deepseek/deepseek-v4-flash-20260423,3425801372074,3426223371295,421999221,0.00012318262945423459,secondary value can omit days below the daily top 50
+2026-05-18,named_model_visible_daily_top50,tencent/hy3-preview-20260421,3070579522313,3071440527019,861004706,0.0002804046271211449,secondary value can omit days below the daily top 50
+2026-05-18,named_model_visible_daily_top50,anthropic/claude-4.7-opus-20260416,1938029560451,1938532169191,502608740,0.0002593400793551558,secondary value can omit days below the daily top 50
+2026-05-18,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1884633047298,1885168801923,535754625,0.00028427530004746117,secondary value can omit days below the daily top 50
+2026-05-18,named_model_visible_daily_top50,openrouter/owl-alpha,1151443392690,1151780429637,337036947,0.0002927082209509361,secondary value can omit days below the daily top 50
+2026-05-18,named_model_visible_daily_top50,google/gemini-3-flash-preview-20251217,1101040408245,1101357654991,317246746,0.0002881336085618097,secondary value can omit days below the daily top 50
+2026-05-18,named_model_visible_daily_top50,deepseek/deepseek-v4-pro-20260423,1075466495844,1075782393715,315897871,0.00029373102018588783,secondary value can omit days below the daily top 50
+2026-05-18,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,979400603857,979697234674,296630817,0.00030286975098017235,secondary value can omit days below the daily top 50
+2026-05-18,named_model_visible_daily_top50,stepfun/step-3.5-flash,662463171168,662654253644,191082476,0.0002884424135806663,secondary value can omit days below the daily top 50
+2026-05-25,weekly_total,,31807747787522,31821170937871,13423150349,0.0004220088274928358,none for the archived all-model daily total
+2026-05-25,named_model_visible_daily_top50,deepseek/deepseek-v4-flash-20260423,3108137494077,3109238373597,1100879520,0.00035419267072254144,secondary value can omit days below the daily top 50
+2026-05-25,named_model_visible_daily_top50,tencent/hy3-preview-20260421,3026675656298,3027776208495,1100552197,0.0003636174872949921,secondary value can omit days below the daily top 50
+2026-05-25,named_model_visible_daily_top50,anthropic/claude-4.7-opus-20260416,2323905161870,2324650124341,744962471,0.0003205649194395453,secondary value can omit days below the daily top 50
+2026-05-25,named_model_visible_daily_top50,anthropic/claude-4.6-sonnet-20260217,1923927592793,1924586175827,658583034,0.00034231175667267356,secondary value can omit days below the daily top 50
+2026-05-25,named_model_visible_daily_top50,openrouter/owl-alpha,1663154558448,1663748548920,593990472,0.00035714688630880583,secondary value can omit days below the daily top 50
+2026-05-25,named_model_visible_daily_top50,xiaomi/mimo-v2.5-20260422,1462547058328,1463030243778,483185450,0.000330372583397339,secondary value can omit days below the daily top 50
+2026-05-25,named_model_visible_daily_top50,deepseek/deepseek-v4-pro-20260423,1253518790688,1253955074474,436283786,0.0003480472644215756,secondary value can omit days below the daily top 50
+2026-05-25,named_model_visible_daily_top50,xiaomi/mimo-v2.5-pro-20260422,1243780903758,1244205030597,424126839,0.00034099803085778965,secondary value can omit days below the daily top 50
+2026-05-25,named_model_visible_daily_top50,deepseek/deepseek-v3.2-20251201,1040683134867,1041079831543,396696676,0.0003811887237422158,secondary value can omit days below the daily top 50
